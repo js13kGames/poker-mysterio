@@ -1,4 +1,7 @@
 ---
+genres:
+  - card-games
+  - strategy
 directors_cut: https://zyxplay.github.io/js13k-2025
 post: https://github.com/ZYXPlay/js13k-2025?tab=readme-ov-file#post-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
